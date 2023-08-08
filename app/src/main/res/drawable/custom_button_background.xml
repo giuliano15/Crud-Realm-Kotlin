@@ -1,0 +1,17 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#FF5722" /> <!-- Cor de fundo quando pressionado -->
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#2196F3" /> <!-- Cor de fundo padrão -->
+        </shape>
+    </item>
+
+
+<!--    <solid android:color="#808080" /> &lt;!&ndash; Cor de fundo cinza &ndash;&gt;-->
+<!--    <corners android:radius="0dp" /> &lt;!&ndash; Borda quadrada &ndash;&gt;-->
+</shape>

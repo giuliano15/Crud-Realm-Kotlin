@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="colorToolbar">@color/colorAccent</color>
+    <color name="colorToolbarText">@color/White</color>
+
+    <color name="colorHeader">@color/WhiteSmoke</color>
+    <color name="colorFooter">@color/WhiteSmoke</color>
+    <color name="colorBody">@color/White</color>
+    <color name="text_light">#66000000</color>
+    <color name="cardForeground">@color/White</color>
+    <color name="cardBackground">#E0E0E0</color>
+
+    <color name="colorPlaceHolder">@color/Silver</color>
+    <color name="mtrl_textinput_default_box_stroke_color">#BDC3C7</color>
+    <!--Outras-->
+    <color name="branco">#FFFFFF</color>
+    <color name="preto">#000000</color>
+    <color name="cinza_escuro">#424242</color>
+    <color name="cinza_claro">#f5f7f9</color>
+    <color name="cinza_padrao">#505050</color>
+    <color name="gray_light">#7c7c7c</color>
+
+
+</resources>

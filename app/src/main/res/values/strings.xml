@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Usuários</string>
+
+    <array name="tipo_pessoa">
+        <item>Cpf</item>
+        <item>Cnpj</item>
+        <item>Others</item>
+    </array>
+
+
+</resources>
