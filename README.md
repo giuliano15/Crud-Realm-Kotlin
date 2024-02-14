@@ -1,6 +1,6 @@
 # Projeto CRUD Realm
 
-O Projeto CRUD Realm é uma aplicação desenvolvida para permitir que os usuários realizem operações básicas de CRUD (Create, Read, Update, Delete) em um banco de dados local utilizando o Realm. Com essa aplicação, os usuários podem inserir, visualizar, atualizar e excluir dados de maneira intuitiva e eficiente.
+O Projeto CRUD Realm é uma aplicação desenvolvida para permitir que os usuários realizem operações básicas de CRUD (Create, Read, Update, Delete) em um banco de dados local utilizando o Realm. Com essa aplicação, os usuários podem inserir, visualizar, atualizar e excluir dados de maneira intuitiva e eficiente.Nele se pode cadastrar nome email, cpf/cnpj , endereço tendo validação de cnpj/cpf validos na hora de cadastro bem como validação de email e telefone validos. 
 
 ## Funcionalidades Principais
 
