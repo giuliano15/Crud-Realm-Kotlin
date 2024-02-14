@@ -12,7 +12,7 @@ O Projeto CRUD Realm é uma aplicação desenvolvida para permitir que os usuár
 
 - **Excluir Dados:** Os dados podem ser excluídos individualmente, proporcionando flexibilidade ao usuário para gerenciar seus registros.
 
- - **Editar Dados:** Os dados salvos podem ser eeditados individualmente, proporcionando flexibilidade ao usuário para gerenciar seus registros aterando ou removendo dados.
+- **Campo de busca:** Existe um campo para usuarios por nome, email ,cpf .
 
 ## Validações Implementadas
 
@@ -29,6 +29,16 @@ O Projeto CRUD Realm é uma aplicação desenvolvida para permitir que os usuár
 - **Banco de Dados Realm:** Utiliza o Realm como banco de dados local para armazenamento e gerenciamento eficiente dos dados.
 
 - **Kotlin:** A aplicação é desenvolvida em Kotlin, uma linguagem moderna e concisa que oferece recursos avançados de programação para o desenvolvimento de aplicativos Android.
+
+## Boas Práticas de Desenvolvimento
+
+- **Separação de Responsabilidades:** O projeto segue o princípio de separação de responsabilidades, garantindo que cada componente tenha uma função específica e bem definida.
+
+- **Nomeação de Variáveis e Funções:** Utiliza nomes significativos para variáveis e funções, facilitando a compreensão do código por outros desenvolvedores.
+
+- **Padrões de Codificação:** Adota padrões de codificação consistentes, seguindo as diretrizes da linguagem Kotlin e as práticas recomendadas pela comunidade.
+
+- **Documentação Adequada:** O código é devidamente documentado, fornecendo informações úteis sobre o propósito e o funcionamento de cada componente.
 
 ## Como Usar
 
@@ -52,4 +62,4 @@ Este projeto está licenciado sob a licença [MIT](LICENSE.md) - veja o arquivo 
 
 ---
 
-Este README.md apresenta o Projeto CRUD Realm de forma clara e organizada, destacando suas características principais, as tecnologias utilizadas e as validações implementadas.
+Este README.md apresenta o Projeto CRUD Realm de forma clara e organizada, destacando suas características principais, as tecnologias utilizadas, as validações implementadas e algumas boas práticas de desenvolvimento.
