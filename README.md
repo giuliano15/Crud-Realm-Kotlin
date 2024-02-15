@@ -40,6 +40,18 @@ O Projeto CRUD Realm é uma aplicação desenvolvida para permitir que os usuár
 
 - **Documentação Adequada:** O código é devidamente documentado, fornecendo informações úteis sobre o propósito e o funcionamento de cada componente.
 
+- ## Algumas fotos do app
+
+<table> 
+  <tr>
+    <td><img src="https://github.com/giuliano15/Crud-Realm-Kotlin/assets/12647380/46472993-86f2-4b8c-b725-cc7fdf0a0718" alt="Imagem 2"></td>
+    <td><img src="https://github.com/giuliano15/Crud-Realm-Kotlin/assets/12647380/26fc9242-b775-475e-94a9-7a2a6fadfedf" alt="Imagem 2"></td>
+    <td><img src="https://github.com/giuliano15/Crud-Realm-Kotlin/assets/12647380/1cbb59c5-8acc-43bf-99a6-c3825d73f76b" alt="Imagem 2"></td>
+ </tr>
+</table
+![Screenshot_2024-02-14-20-47-28-1](https://github.com/giuliano15/Crud-Realm-Kotlin/assets/12647380/26fc9242-b775-475e-94a9-7a2a6fadfedf)
+![Screenshot_2024-02-14-20-52-29-4](https://github.com/giuliano15/Crud-Realm-Kotlin/assets/12647380/1cbb59c5-8acc-43bf-99a6-c3825d73f76b)
+
 ## Como Usar
 
 1. Clone o repositório em sua máquina local.
