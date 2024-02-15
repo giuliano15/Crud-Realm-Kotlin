@@ -12,7 +12,7 @@ O Projeto CRUD Realm é uma aplicação desenvolvida para permitir que os usuár
 
 - **Excluir Dados:** Os dados podem ser excluídos individualmente, proporcionando flexibilidade ao usuário para gerenciar seus registros.
 
-- **Campo de busca:** Existe um campo para usuarios por nome, email ,cpf .
+- **Pesquisar Dados:** Existe um campo para pesquisa usuarios por nome, email ,cpf ou qualquer caractere presente na lista .
 
 ## Validações Implementadas
 
